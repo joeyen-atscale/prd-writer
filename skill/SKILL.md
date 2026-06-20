@@ -120,7 +120,7 @@ They're meant to spark, not constrain.
 - A home dashboard (Raspberry Pi, old tablet) that shows weather, today's calendar, and who's home
 - A "where did I put it" log for items you always lose (passport, charger, spare keys)
 
-### Home automation
+### Home automation & sensors
 - A plant watering reminder that accounts for recent rainfall and season
 - A morning routine trigger: one button press starts the coffee, sets the thermostat, reads
   out your first meeting
